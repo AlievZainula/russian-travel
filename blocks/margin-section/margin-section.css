@@ -1,0 +1,9 @@
+.margin-section{
+  margin-top: 92px;
+}
+
+@media screen and (max-width: 320px) {
+  .margin-section{
+    margin-top: 64px;
+  }
+}
